@@ -82,3 +82,4 @@ variable "cluster_node_count" {
   description = "Specify the number of nodes for the management cluster in the private cloud"
   default     = 3
 }
+
